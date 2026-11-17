@@ -1,0 +1,11 @@
+{
+  "name": "solocatalog",
+  "version": "1.0.0",
+  "description": "Original (OEM) car part numbers and exploded parts diagrams by VIN or model.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "solocatalog": {
+      "httpUrl": "https://solocatalog.com/mcp"
+    }
+  }
+}
